@@ -2,7 +2,7 @@
 
 # Desafios TypeScript - DIO
 
-Após a conclusão do módulo de TypeScript foi solicitado a conclusão de quatro desafios para testar os conhecimentos adquiridos
+Após o término do módulo de TypeScript foi solicitado a conclusão de quatro desafios para testar os conhecimentos adquiridos
 
 
 
